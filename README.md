@@ -5,6 +5,7 @@ I'm a former teacher transitioning into full-stack web development. I’m using 
 Currently learning HTML, CSS, JavaScript, and Tailwind, and building small projects along the way.  
 
 ## Projects I’m working on:  
+- My website
 - A Raspberry Pi-powered cat cam 🐱 
 - An app for people with Celiac Disease 🌾 
 

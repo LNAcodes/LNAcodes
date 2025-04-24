@@ -2,7 +2,7 @@
 
 I'm a former teacher transitioning into full-stack web development. I’m using my background in education to build accessible, thoughtful, and user-centered web experiences.  
 
-Currently learning HTML, CSS, JavaScript, and Tailwind, and building small projects along the way.  
+Currently learning HTML, CSS, JavaScript, and Tailwind. Exploring Git & GitHub, building small responsive projects with Jekyll and deploying via Netlify. Also diving into UI/UX design with Figma and storytelling through code and building small projects along the way.  
 
 ## Projects I’m working on:  
 - My website

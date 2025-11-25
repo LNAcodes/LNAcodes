@@ -1,15 +1,41 @@
-# 👁️ Elena Iris Rosenau
+# Hi, I'm Elena 👋
 
-I'm a former teacher transitioning into full-stack web development. I’m using my background in education to build accessible, thoughtful, and user-centered web experiences.  
+Former educator turned full-stack developer, building accessible and privacy-focused applications for social impact.
 
-Currently learning HTML, CSS, JavaScript, and Tailwind. Exploring Git & GitHub, building small responsive projects with Jekyll and deploying via Netlify. Also diving into UI/UX design with Figma and storytelling through code and building small projects along the way.  
+## Currently
+**Full-Stack Development Bootcamp** @ Spiced Academy, Berlin (Nov 2025 - Dez 2026)
 
-## Projects I’m working on:  
-- My website
-- A Raspberry Pi-powered cat cam 🐱 
-- An app for people with Celiac Disease 🌾 
+Learning: JavaScript, React, Node.js, Express, PostgreSQL  
+Focus: Backend development, data privacy, accessibility
 
-I’m always exploring new ideas and improving my skills, driven by a passion for creating tools that make a difference. When I'm not coding, you'll probably find me lost in a good book.
+## Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express, RESTful APIs  
+**Tools:** Git, GitHub, VS Code  
+**Databases:** PostgreSQL (upcoming)
+
+## Background
+9 years as an English & Political Science teacher, specializing in intersectional pedagogy and inclusive education. Now bringing that human-centered approach to tech.
+
+## What I'm Building
+- Privacy-focused web tools for vulnerable communities
+- Educational tech that promotes digital literacy
+- Accessible applications that work for everyone
+
+## Current Projects
+**CatCam** 🐱 Raspberry Pi-powered camera with privacy-first design  
+**CeliacHelper** 🌾 Resource app for people with Celiac Disease (planning phase)  
+**Portfolio Site** Showcasing my journey from education to tech
+
+## Interests
+Tech for Good • EdTech • Feminist Cybersecurity • Data Privacy • Accessibility (a11y)
+
+When I'm not coding, you'll find me reading, exploring Berlin, or advocating for ethical tech.
+
+
+---
+
+*Building tech that's not just functional, but inclusive.*
 
 <!---
 LNAcodes/LNAcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

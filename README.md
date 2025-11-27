@@ -3,7 +3,7 @@
 Former educator turned full-stack developer, building accessible and privacy-focused applications for social impact.
 
 ## Currently
-**Full-Stack Development Bootcamp** @ Spiced Academy, Berlin (Nov 2025 - Dez 2026)
+**Full-Stack Development Bootcamp** @ NeueFische/Spiced Academy, Berlin (Nov 2025 - Dez 2026)
 
 Learning: JavaScript, React, Node.js, Express, PostgreSQL  
 Focus: Backend development, data privacy, accessibility

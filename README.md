@@ -1,4 +1,5 @@
 # Hi, I'm Elena 👋
+![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 Former educator turned full-stack developer, building accessible and privacy-focused applications for social impact.
 
@@ -32,8 +33,14 @@ Tech for Good • EdTech • Feminist Cybersecurity • Data Privacy • Accessi
 
 When I'm not coding, you'll find me reading, exploring Berlin, or advocating for ethical tech.
 
-### Let's get connected:
-- [LinkedIn] (www.linkedin.com/in/elena-rosenau-20a7a9269)
+## GitHub Stats
+
+![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=LNAcodes&show_icons=true&theme=radical&hide_border=true)
+
+## Let's get connected:
+💼 [LinkedIn](https://www.linkedin.com/in/elena-rosenau-20a7a9269)  
+📧 [Email](mailto:elenairisrosenau@gmail.com)  
+🌐 Portfolio (coming soon)
 
 ---
 

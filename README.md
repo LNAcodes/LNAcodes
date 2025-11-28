@@ -32,6 +32,8 @@ Tech for Good • EdTech • Feminist Cybersecurity • Data Privacy • Accessi
 
 When I'm not coding, you'll find me reading, exploring Berlin, or advocating for ethical tech.
 
+### Let's get connected:
+- [LinkedIn] (www.linkedin.com/in/elena-rosenau-20a7a9269)
 
 ---
 

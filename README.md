@@ -24,9 +24,16 @@ Focus: Backend development, data privacy, accessibility
 - Accessible applications that work for everyone
 
 ## Current Projects
-**CatCam** 🐱 Raspberry Pi-powered camera with privacy-first design  
-**CeliacHelper** 🌾 Resource app for people with Celiac Disease (planning phase)  
-**Portfolio Site** Showcasing my journey from education to tech
+
+**Cybercheck** 🔐  
+Quiz-based app focused on ethical technology and accessibility — designed for use in education, workshops, and self-learning contexts.
+
+**CatCam** 🐱  
+Raspberry Pi–powered camera with a privacy-first, self-hosted architecture.
+
+**Portfolio Site**  
+Showcasing selected projects, technical skills, and a focus on ethical, inclusive technology.
+
 
 ## Interests
 Tech for Good • EdTech • Feminist Cybersecurity • Data Privacy • Accessibility (a11y)

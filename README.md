@@ -1,5 +1,6 @@
   # Hi, I'm LNA ⛲️
 ![ASCII animation of my cat](./cat-ascii.gif)
+
 <sub>My cat, turned into ASCII art in the terminal with ffmpeg, ascii-image-converter and VHS.</sub>
 
 I'm a lifelong learner, and a coder by curiosity. Definitely slower than the bootcamp pace allows, but I am trying to write poetic code, and would rather understand every line than the trust the vibe-coding hype. Sorry Claude and Chatty, not sorry. 👾 

@@ -41,8 +41,8 @@ Ethical Technology • Accessibility (a11y) • Data Privacy • Digital Rights 
 
 ## Let's get connected
 🤖 [LinkedIn](https://www.linkedin.com/in/elena-rosenau)  
-🧚‍♀️ [Portfolio] (https://www.elenarosenau.org)
+🧚‍♀️ [Portfolio](https://www.elenarosenau.org)
 
 ---
 
-*Building ethical, accessible technology with a focus on privacy and impact.*
+*Against data colonialism. Let's take back the internet as a place that belongs to the people who use it.*

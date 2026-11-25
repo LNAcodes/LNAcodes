@@ -3,7 +3,7 @@
 
 <sub>My cat, turned into ASCII art in the terminal with ffmpeg, ascii-image-converter and VHS.</sub>
 
-I'm a lifelong learner, and a coder by curiosity. Definitely slower than the bootcamp pace allows, but I am trying to write poetic code, and would rather understand every line than the trust the vibe-coding hype. Sorry Claude and Chatty, not sorry. 👾 
+I'm a lifelong learner, and a coder by curiosity. Definitely slower than the bootcamp pace allows, but I am trying to write poetic code, and would rather understand every line than trust the vibe-coding hype. Sorry Claude and Chatty, not sorry. 👾 
 But let's be honest and realistic: it's not that I haven't tried it out and had my fun with it. Under bootcamp time pressure, an LLM has also been my personal tutor, ticket master and proofreader.
 
 ## Currently

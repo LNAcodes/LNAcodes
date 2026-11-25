@@ -1,6 +1,6 @@
-# Hi, I'm LNA 👋
-![Terminal Animation](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRsgJ7b-fvJgKPvt4hZ_iWa1qZMoqpU5unZScp2BDoFCWPPxfUbyq84IcCfw2Ph6hhuVumrArCP_CGiah-l1xE2nYLnPb5ZOT56aF60QRfAQMoi78qfVzW8izY6UzhNTC0PWJpskSbhp4/s1600/gifs-on-cli.gif)
-<sub>GIF: [Name oder Titel des Blogs]([Link zum Blogbeitrag](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRsgJ7b-fvJgKPvt4hZ_iWa1qZMoqpU5unZScp2BDoFCWPPxfUbyq84IcCfw2Ph6hhuVumrArCP_CGiah-l1xE2nYLnPb5ZOT56aF60QRfAQMoi78qfVzW8izY6UzhNTC0PWJpskSbhp4/s1600/gifs-on-cli.gif))</sub>
+  # Hi, I'm LNA ⛲️
+![ASCII animation of my cat](./cat-ascii.gif)
+<sub>My cat, turned into ASCII art in the terminal with ffmpeg, ascii-image-converter and VHS.</sub>
 
 I'm a lifelong learner, and a coder by curiosity. Definitely slower than the bootcamp pace allows, but I am trying to write poetic code, and would rather understand every line than the trust the vibe-coding hype. Sorry Claude and Chatty, not sorry. 👾 
 But let's be honest and realistic: it's not that I haven't tried it out and had my fun with it. Under bootcamp time pressure, an LLM has also been my personal tutor, ticket master and proofreader.

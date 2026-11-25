@@ -25,7 +25,7 @@ Former educator with 9 years of experience in inclusive and intersectional pedag
 
 ## Current Projects
 
-**Cybercheck** 🔐  
+**CyberCheck** 💡  
 Mobile quiz app on digital rights of children and young people. For schools, workshops and self-learning. React Native, Expo.
 
 **CatCam** 🐱🐱  
